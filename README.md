@@ -9,7 +9,7 @@ Deep Facebook BETA Version
 ![](https://github.com/Xenz404/deep-facebook/blob/main/data/Screenshot_20230328-185901.jpg)
 
 #### Run
-```cmd
+```c++
 pkg update && pkg upgrade
 pkg install python
 pkg install git
