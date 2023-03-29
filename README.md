@@ -20,6 +20,8 @@ python Run.py
 
 #### Social account
 <a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="30" height="30"></a>
-<a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="content://com.android.chrome.FileProvider/images/screenshot/1680064126773583276534.png" alt="alt text" width="30" height="30"></a>
+<a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/580b57fcd9996e24bc43c543.png" alt="alt text" width="30" height="30"></a>
+<a href="https;//github.com/Xenz404"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/images%20(5).png" alt="alt text" width="30" height="30"></a>
+
 
 <img src="" alt="alt text" width="30" height="30"></a>
