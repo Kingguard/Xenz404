@@ -25,8 +25,4 @@ python Run.py
 <a href="https://t.me/Xenz_X11"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/Telegram_2019_Logo.svg.png" alt="alt text" width="30" height="30"></a>
 <a href="https://github.com/Xenz404"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/images%20(5).png" alt="alt text" width="30" height="30"></a>
 
-<div bgcolor="black">
-    <font color="red" size="10">
-        Heh
-    </font>
-</div>
+<script>alert("Yameteh")</script>
