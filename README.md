@@ -9,7 +9,7 @@ Deep Facebook BETA Version
 ![](https://github.com/Xenz404/deep-facebook/blob/main/data/Screenshot_20230328-185901.jpg)
 
 #### Run
-```python
+```cmd
 pkg update && pkg upgrade
 pkg install python
 pkg install git
@@ -26,5 +26,5 @@ python Run.py
 <a href="https://github.com/Xenz404"><img src="https://raw.githubusercontent.com/Xenz404/Xenz404/main/img/images%20(5).png" alt="alt text" width="30" height="30"></a>
 
 ```html
-<!-- Kontol bapak lu gede -->
+<!-- Thanks For Using My Tools:) -->
 ```
