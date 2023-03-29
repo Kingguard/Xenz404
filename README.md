@@ -19,5 +19,7 @@ python Run.py
 ```
 
 #### Social account
-<a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a>
-<a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh">
+<a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="30" height="30"></a>
+<a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh"><img src="content://com.android.chrome.FileProvider/images/screenshot/1680064126773583276534.png" alt="alt text" width="30" height="30"></a>
+
+<img src="" alt="alt text" width="30" height="30"></a>
