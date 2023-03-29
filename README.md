@@ -2,16 +2,12 @@
 
 <details>
   <summary><b>Baca selengkapnya </b></summary>
-
+![](https://i.ibb.co/bBnbRrt/php.png)
 Deep Facebook BETA Version
 --------|
-![](https://i.ibb.co/bBnbRrt/php.png)
 ![](https://github.com/Xenz404/deep-facebook/blob/main/data/Screenshot_20230328-185901.jpg)
 
-
-#### ★ Social Accounts ★
-<a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a><a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh">
-#### _ Install _
+#### Run
 ```python
 pkg update && pkg upgrade
 pkg install python
@@ -20,3 +16,7 @@ git clone https://github.com/Xenz404/deep-facebook
 cd deep-facebook
 python Run.py
 ```
+
+#### Social account
+<a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a>
+<a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh">
